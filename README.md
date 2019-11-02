@@ -17,7 +17,7 @@ Thanks Frank!
 
 `yarn start` [server.js](/server.js) (using express) and open http://localhost:5000/rabbit-trap.html.
 
-![screenshot of the mod](/attachments/screenshot.png 'screenshot of the mod')
+![screenshot of the mod](/attachments/screenshot.gif 'screenshot of the mod')
 
 ## Controls
 
