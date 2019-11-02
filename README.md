@@ -1,6 +1,9 @@
 # Rabbit trap JS platformer game - mod
 
-Forked from frankarendpoth to experiment with making JavaScript platformers.
+Forked from [frankarendpoth](https://github.com/frankarendpoth/frankarendpoth.github.io) to **experiment with making JavaScript platformers.**
+
+His original game can be checked [here](http://frankpoth.info/content/pop-vlog/javascript/2018/006-rabbit-trap/rabbit-trap.html?07).
+The tutorial he made for freeCodeCamp.org is available on YouTube: [video link](https://www.youtube.com/watch?v=w-OKdSHRlfA).
 
 Thanks Frank!
 
@@ -8,7 +11,7 @@ Thanks Frank!
 
 (Original readme.MD)
 
-This github repository is mainly used to store the projects I write for my YouTube Channel, Poth on Programming Video Log. These projects are largely focused on game design. You can also find the code for my website, which is just a way to access the working examples from my channel in a browser.
+> This github repository is mainly used to store the projects I write for my YouTube Channel, Poth on Programming Video Log. These projects are largely focused on game design. You can also find the code for my website, which is just a way to access the working examples from my channel in a browser.
 
 # Run game locally
 
@@ -18,11 +21,9 @@ This github repository is mainly used to store the projects I write for my YouTu
 
 ## Controls
 
-up - jump
-
-left - move left
-
-right - move right
+* up - jump
+* left - move left
+* right - move right
 
 # License
 
